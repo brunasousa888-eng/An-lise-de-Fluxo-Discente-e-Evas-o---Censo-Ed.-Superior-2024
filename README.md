@@ -38,7 +38,13 @@ Redução de centenas de colunas para atributos essenciais relacionados ao fluxo
 
 2. Modelagem de Dados
 Elaboração de um Diagrama Entidade-Relacionamento (ERD) com separação lógica entre Instituições de Ensino Superior (IES) e Cursos, evitando redundância e melhorando a integridade dos dados.
+### 📊 Modelagem de Dados (ERD)
 
+Abaixo, o Diagrama de Entidade-Relacionamento que ilustra a conexão entre as tabelas de Instituições e Cursos:
+
+<div align="center">
+  <img src="NOME_DA_SUA_PASTA/diagrama_er.png" alt="Diagrama de Entidade-Relacionamento" width="700px">
+</div>
 3. Infraestrutura
 
 Banco de dados: PostgreSQL (Supabase – nuvem)
