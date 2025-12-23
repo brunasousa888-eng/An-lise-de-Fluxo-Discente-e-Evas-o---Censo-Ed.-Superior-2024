@@ -43,7 +43,7 @@ Elaboração de um Diagrama Entidade-Relacionamento (ERD) com separação lógic
 Abaixo, o Diagrama de Entidade-Relacionamento que ilustra a conexão entre as tabelas de Instituições e Cursos:
 
 <div align="center">
-  <img src="Fluxo discente no ensino superior/Fluxo discente no ensino superior/Diagrama de Entidade-Relacionamento do Fluxo Discente.png" alt="Diagrama de Entidade-Relacionamento" width="700px">
+  <img src="Fluxo discente no ensino superior/Diagrama de Entidade-Relacionamento do Fluxo Discente.png" alt="Diagrama de Entidade-Relacionamento" width="700px">
 </div>
 3. Infraestrutura
 
