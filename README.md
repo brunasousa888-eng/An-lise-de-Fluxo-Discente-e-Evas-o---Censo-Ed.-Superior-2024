@@ -63,10 +63,16 @@ Microsoft Excel (tratamento inicial)
 
 📈 Status do Projeto
 
-🔧 Em andamento
+🔧 Concluído
 Banco estruturado e validado
 Dados carregados na tabela bruta
-Próxima etapa: consultas analíticas e geração de insights
+Insights gerados e documentados.
+
+💡Principais descobertas
+A análise dos dados do Censo revelou padrões críticos sobre a retenção de estudantes no Brasil:
+Impacto Econômico: A taxa de evasão em instituições Pagas (39,28%) é significativamente superior à de instituições Gratuitas (15,96%).
+Desafio da Modalidade: O ensino EAD apresenta um índice de desvinculação de 49,07%, enquanto o ensino Presencial mantém uma taxa de 19,82%.
+Geografia da Evasão: Os estados de Tocantins (TO), Amazonas (AM) e Santa Catarina (SC) apresentaram os maiores índices de desvinculação regional.
 
 📚 Referência
 
