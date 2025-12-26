@@ -90,4 +90,4 @@ Disponível em: https://www.gov.br/inep
 
 ✍️ Autoria:
 Bruna Santana
-Projeto acadêmico com foco em análise de dados educacionais via SQL.
+Projeto com foco em Analytics Engineering e Dados Educacionais.
