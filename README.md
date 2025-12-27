@@ -9,6 +9,7 @@ Fator Econômico: A taxa de evasão em instituições Pagas (39,28%) é quase 2,
 Impacto da Modalidade: O ensino EAD apresenta uma taxa de desvinculação de 49,07%, evidenciando um desafio de retenção muito maior que o ensino Presencial (19,82%).
 
 Gargalos Regionais: Estados como Tocantins (TO), Amazonas (AM) e Santa Catarina (SC) lideram os índices de desvinculação regional.
+⚠️ Crise nos Cursos Tecnólogos: Identificou-se que o grau acadêmico Tecnológico possui a maior taxa de desvinculação do painel (53,87%), superando significativamente as Licenciaturas (34,82%) e Bacharelados (28,51%).
 
 Qualidade dos Dados: Foi identificado 163.941 registros de cursos sem matrículas ativas no ciclo, que foram isolados para garantir a precisão da análise final.
 🎯 Objetivos da Análise
